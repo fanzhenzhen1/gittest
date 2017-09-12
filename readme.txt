@@ -9,3 +9,4 @@ Git has a mutable index called stage.
                 <property name="username" value="apcm" />
                 <property name="password" value="mof20_13apcm" />
         </bean>
+Git tracks changes.
